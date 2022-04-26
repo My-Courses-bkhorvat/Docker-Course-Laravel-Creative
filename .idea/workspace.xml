@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c17ef940-616d-4fbd-938f-dfebc25bd7c3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nginx/conf.d/nginx.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +139,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="28Kln2oyJhrnigumtcsWxqMNJUC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -154,6 +155,10 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\dockerTest" />
+      <recent name="C:\OpenServer\domains\dockerTest\_docker" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\OpenServer\domains\nginx\public" />
     </key>
@@ -176,6 +181,7 @@
       <workItem from="1650985509606" duration="23000" />
       <workItem from="1650985549696" duration="36000" />
       <workItem from="1650985587440" duration="3000" />
+      <workItem from="1650985933120" duration="3059000" />
     </task>
     <servers />
   </component>
