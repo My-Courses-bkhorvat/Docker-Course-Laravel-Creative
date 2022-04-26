@@ -8,6 +8,8 @@
     <title>Document</title>
 </head>
 <body>
-    This is page index html
+    This is page index PHP!
+<?php echo 'blablabla'?>
+<?='short bla'?>
 </body>
 </html>
